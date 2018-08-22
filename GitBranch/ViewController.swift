@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     
-    let jeet = "Jeet"
+    let jeet = "Jeet Karmakar"
     let sanket = "Sanket"
     
 
